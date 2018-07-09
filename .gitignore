@@ -1,0 +1,10 @@
+/*
+/*/
+
+!.gitignore
+!/Assets/
+!/ProjectSettings/
+
+!.gitignore
+!README.md
+!LICENSE.txt
